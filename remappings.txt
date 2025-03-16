@@ -1,0 +1,5 @@
+@openzeppelin/=lib/permit2/lib/openzeppelin-contracts/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+permit2/=lib/permit2/src/
+openzeppelin-contracts/=lib/permit2/lib/openzeppelin-contracts/
